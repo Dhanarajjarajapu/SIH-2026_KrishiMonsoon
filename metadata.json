@@ -1,0 +1,6 @@
+{
+  "name": "KrishiMonsoon",
+  "description": "Hyperlocal monsoon onset and dry-spell break prediction with expert agronomic decision-support for Indian farmers, extension officers, and agri-planners.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
